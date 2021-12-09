@@ -180,7 +180,7 @@ async def uncban_handler(bot, message):
         await message.reply_text(e)
 
 
-@JV_BOT.on_message(filters.command(["add_whitelist"]) & filters.group)
+@JV_BOT.on_message(filters.command(["awl"]) & filters.group)
 async def add_whitelist_handler(bot, message):
     chat_id = message.chat.id
     user = await bot.get_chat_member(chat_id, message.from_user.id)
@@ -203,7 +203,7 @@ async def add_whitelist_handler(bot, message):
         print(e)
 
 
-@JV_BOT.on_message(filters.command(["del_whitelist"]) & filters.group)
+@JV_BOT.on_message(filters.command(["dwl"]) & filters.group)
 async def del_whitelist_handler(bot, message):
     chat_id = message.chat.id
     user = await bot.get_chat_member(chat_id, message.from_user.id)
@@ -226,7 +226,7 @@ async def del_whitelist_handler(bot, message):
         print(e)
 
 
-@JV_BOT.on_message(filters.command(["show_whitelist"]) & filters.group)
+@JV_BOT.on_message(filters.command(["swl"]) & filters.group)
 async def del_whitelist_handler(bot, message):
     chat_id = message.chat.id
     user = await bot.get_chat_member(chat_id, message.from_user.id)
