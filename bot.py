@@ -100,7 +100,7 @@ async def help_handler(bot, message):
 /del_whitelist [channel_id] : remove channel from whitelist.
 /show_whitelist : Show all white list channels.
 
-for more help ask at @JV_Community""",
+for more help ask at @Thewarbotz""",
                              reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Bots Channel", url=f"https://t.me/TheWarBotZ"),
                                                                  InlineKeyboardButton("Support Group", url=f"https://t.me/warbotzsupport")]]),
                              disable_web_page_preview=True)
