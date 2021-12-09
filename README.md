@@ -12,7 +12,7 @@ A Telegram AntiChannel bot to ban users who using channel to send message in gro
 
 
 ### Heroku Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jigarvarma2005/Anti-Channel-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xAbhish3k/Anti-Channel-bot)
 
 ### Host Locally:
 ```shell
