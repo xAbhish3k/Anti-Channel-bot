@@ -101,8 +101,8 @@ async def help_handler(bot, message):
 /show_whitelist : Show all white list channels.
 
 for more help ask at @JV_Community""",
-                             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Bots Channel", url=f"https://t.me/Universal_Projects"),
-                                                                 InlineKeyboardButton("Support Group", url=f"https://t.me/JV_Community")]]),
+                             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Bots Channel", url=f"https://t.me/TheWarBotZ"),
+                                                                 InlineKeyboardButton("Support Group", url=f"https://t.me/warbotzsupport")]]),
                              disable_web_page_preview=True)
 
 
