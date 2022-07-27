@@ -30,10 +30,10 @@ python3 bot.py
 
 
 #### Support Group
-- [JV Community](https://t.me/warbotzsupport)
+- [The War BotZ](https://t.me/warbotzsupport)
 
 #### Bots Updates Channel
-- [Universal Projects](https://t.me/thewarbotz)
+- [WarBotzSupport](https://t.me/thewarbotz)
 
 ### Credits
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
