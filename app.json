@@ -1,5 +1,5 @@
 {
-    "name": "A Telegram AntiChannel in Group Bot by @Jigarvarma2005.",
+    "name": "A Telegram AntiChannel in Group Bot by @TheWarBotZ.",
     "description": "A Telegram Bot for kicking mambers who using channel for messeging. Made by @Jigarvarma2005.",
     "keywords": [
         "telegram",
@@ -9,9 +9,9 @@
         "manager",
         "bot"
     ],
-    "repository": "https://github.com/Jigarvarma2005/Anti-Channel-bot",
-    "website": "https://telegram.dog/JigarVarma2005",
-    "success_url": "https://t.me/JV_Community",
+    "repository": "https://github.com/xAbhish3k/Anti-Channel-bot",
+    "website": "https://telegram.dog/xAbhish3k",
+    "success_url": "https://t.me/TheWarBotZ",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org"
