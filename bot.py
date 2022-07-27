@@ -1,7 +1,3 @@
-# (c) Jigarvarma2005
-# Please make pull request if something wrong
-# Coded by noob
-# Edit at your own risk
 import os
 from database import db
 from pyrogram import Client, filters
